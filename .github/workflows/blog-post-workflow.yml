@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: BLOG
-          feed_list: "https://obrunorocha.com.br/feed.xml"
+          feed_list: "https://obrunorocha.com.br/rss.xml"
