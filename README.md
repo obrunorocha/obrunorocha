@@ -36,5 +36,5 @@
 
 [<img align="left" style="margin: 2px" width="200px" src="https://img.shields.io/badge/obrunorocha.com.br-🚀-blue.svg" />](https://obrunorocha.com.br/) <br>
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- <!-- BLOG-POST-LIST:START -->
+<!-- <!-- BLOG-POST-LIST:END -->
