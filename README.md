@@ -16,7 +16,7 @@
 
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=obrunorocha&show_icons=true" alt="obrunorocha" />
-</p><br><br><br><br><br><br><br><br><br><br><br>
+</p><br><br><br><br><br><br><br><br><br>
 
 ### Languages and Tools:
 
