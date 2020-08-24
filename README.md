@@ -41,7 +41,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Adobe Illustrator" width="26px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
 <img align="left" alt="Adobe Photoshop" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" /> 
-<br><br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrunorocha&layout=compact&hide=html" alt="obrunorocha" /></p>
 
