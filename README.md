@@ -45,4 +45,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrunorocha&layout=compact&hide=html" alt="obrunorocha" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=obrunorocha&show_icons=true" alt="obrunorocha" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=obrunorocha&show_icons=true" alt="obrunorocha" />
