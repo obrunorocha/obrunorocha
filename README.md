@@ -14,7 +14,7 @@
 📫 How to reach me **obrunorocha@outlook.com** <br>
 ⚡ Fun fact: I love movies and music at 70's, 80's and 90's<br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=obrunorocha&show_icons=true" alt="obrunorocha" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=obrunorocha&show_icons=true" alt="obrunorocha" /><br>
 
 ### Languages and Tools:
 
