@@ -43,6 +43,6 @@
 <img align="left" alt="Adobe Photoshop" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" /><br><br><br>
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrunorocha&layout=compact&hide=html" alt="obrunorocha" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=obrunorocha&show_icons=true" alt="obrunorocha" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrunorocha&layout=compact&hide=html" alt="obrunorocha" />
 </p>
