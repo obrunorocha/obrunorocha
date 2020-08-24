@@ -15,6 +15,6 @@
 ⚡ Fun fact: I love movies and music at 70's, 80's and 90's<br>
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrunorocha&layout=compact&hide=html" alt="obrunorocha" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=obrunorocha&show_icons=true" alt="obrunorocha" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrunorocha&layout=compact&hide=html" alt="obrunorocha" />
 </p>
