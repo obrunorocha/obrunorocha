@@ -7,7 +7,7 @@
 <img align="center" style="margin: 2px" width="132px" src="https://komarev.com/ghpvc/?username=obrunorocha&style=flat-square" alt="obrunorocha"/>
 </p>
 
-💻 I’m Developer Front-end<br>
+💻 I’m Front-end Developer<br>
 🏡 I'm from Brazil, Sorocaba/SP <br>
 📚 I’m currently learning everything <br>
 🥅 2020 Goals: create a new project and find a new job <br>
