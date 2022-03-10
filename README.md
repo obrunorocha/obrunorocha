@@ -10,7 +10,7 @@
 💻 I’m Front-end Developer<br>
 🏡 I'm from Brazil, Sorocaba/SP <br>
 📚 I’m currently learning everything <br>
-🥅 2021 Goals: create a new project and find a new job <br>
+🥅 2022 Goals: create a new project and find a new job <br>
 📫 How to reach me **obrunorocha@outlook.com** <br>
 ⚡ Fun fact: I love movies and music at 70's, 80's and 90's<br>
 
